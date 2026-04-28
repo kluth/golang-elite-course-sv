@@ -1,20 +1,18 @@
-# Elite Go Systems Architect Kurs
+# Level 12: level12
 
-## 🌍 Available Languages
-- 🇬🇧 [English](https://github.com/kluth/golang-elite-course)
-- 🇩🇪 [Deutsch](https://github.com/kluth/golang-elite-course-de)
-- 🇳🇱 [Nederlands](https://github.com/kluth/golang-elite-course-nl)
-- 🇮🇹 [Italiano](https://github.com/kluth/golang-elite-course-it)
-- 🇸🇪 [Svenska](https://github.com/kluth/golang-elite-course-sv)
-- 🇹🇷 [Türkçe](https://github.com/kluth/golang-elite-course-tr)
+Skeppsbyggaren! Factory och Builder för långskepp.
 
-Krav:
-- **Go**: Version 1.22+
-- **Git**
+### 📝 Sammanfattning
+Skapandeabstraktion.
 
-Hur man börjar:
-1. Checka ut den första branchen:
-   ```bash
-   git checkout e1973dc3e7dc82e3
-   ```
-2. Läs `README.md`.
+### ⌨️ Syntaxhjälp
+Gränssnitt och fluent API.
+
+### 📚 Bästa källor
+- [Factory Method](https://refactoring.guru/design-patterns/factory-method/go/example)
+- [Builder](https://refactoring.guru/design-patterns/builder/go/example)
+
+## Instructions
+1. Open `assignment.go`.
+2. Implement the task.
+3. `go test -v .`
