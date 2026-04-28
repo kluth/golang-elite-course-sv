@@ -1,20 +1,18 @@
-# Elite Go Systems Architect Kurs
+# Level 10: level10
 
-## 🌍 Available Languages
-- 🇬🇧 [English](https://github.com/kluth/golang-elite-course)
-- 🇩🇪 [Deutsch](https://github.com/kluth/golang-elite-course-de)
-- 🇳🇱 [Nederlands](https://github.com/kluth/golang-elite-course-nl)
-- 🇮🇹 [Italiano](https://github.com/kluth/golang-elite-course-it)
-- 🇸🇪 [Svenska](https://github.com/kluth/golang-elite-course-sv)
-- 🇹🇷 [Türkçe](https://github.com/kluth/golang-elite-course-tr)
+Tidsströmmen! Worker Pools för parallella jobb.
 
-Krav:
-- **Go**: Version 1.22+
-- **Git**
+### 📝 Sammanfattning
+Worker-pooler.
 
-Hur man börjar:
-1. Checka ut den första branchen:
-   ```bash
-   git checkout e1973dc3e7dc82e3
-   ```
-2. Läs `README.md`.
+### ⌨️ Syntaxhjälp
+`go`-rutiner och `chan`-kanaler.
+
+### 📚 Bästa källor
+- [Go by Example: Worker Pools](https://gobyexample.com/worker-pools)
+- [Learn Go with Tests: Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
+
+## Instructions
+1. Open `assignment.go`.
+2. Implement the task.
+3. `go test -v .`
