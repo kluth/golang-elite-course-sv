@@ -1,20 +1,18 @@
-# Elite Go Systems Architect Kurs
+# Level 9: level9
 
-## 🌍 Available Languages
-- 🇬🇧 [English](https://github.com/kluth/golang-elite-course)
-- 🇩🇪 [Deutsch](https://github.com/kluth/golang-elite-course-de)
-- 🇳🇱 [Nederlands](https://github.com/kluth/golang-elite-course-nl)
-- 🇮🇹 [Italiano](https://github.com/kluth/golang-elite-course-it)
-- 🇸🇪 [Svenska](https://github.com/kluth/golang-elite-course-sv)
-- 🇹🇷 [Türkçe](https://github.com/kluth/golang-elite-course-tr)
+Odins runor! Generics för ett typsäkert Set.
 
-Krav:
-- **Go**: Version 1.22+
-- **Git**
+### 📝 Sammanfattning
+Generiska typer.
 
-Hur man börjar:
-1. Checka ut den första branchen:
-   ```bash
-   git checkout e1973dc3e7dc82e3
-   ```
-2. Läs `README.md`.
+### ⌨️ Syntaxhjälp
+`func F[T any](v T)`
+
+### 📚 Bästa källor
+- [Intro to Generics](https://go.dev/blog/intro-generics)
+- [Go by Example: Generics](https://gobyexample.com/generics)
+
+## Instructions
+1. Open `assignment.go`.
+2. Implement the task.
+3. `go test -v .`
