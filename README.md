@@ -1,20 +1,18 @@
-# Elite Go Systems Architect Kurs
+# Level 3: level3
 
-## 🌍 Available Languages
-- 🇬🇧 [English](https://github.com/kluth/golang-elite-course)
-- 🇩🇪 [Deutsch](https://github.com/kluth/golang-elite-course-de)
-- 🇳🇱 [Nederlands](https://github.com/kluth/golang-elite-course-nl)
-- 🇮🇹 [Italiano](https://github.com/kluth/golang-elite-course-it)
-- 🇸🇪 [Svenska](https://github.com/kluth/golang-elite-course-sv)
-- 🇹🇷 [Türkçe](https://github.com/kluth/golang-elite-course-tr)
+Heimdall vaktar bron! Inkapsling skyddar våra hemligheter.
 
-Krav:
-- **Go**: Version 1.22+
-- **Git**
+### 📝 Sammanfattning
+Paketsynlighet.
 
-Hur man börjar:
-1. Checka ut den första branchen:
-   ```bash
-   git checkout e1973dc3e7dc82e3
-   ```
-2. Läs `README.md`.
+### ⌨️ Syntaxhjälp
+`liten` är privat, `Stor` är offentlig.
+
+### 📚 Bästa källor
+- [Effective Go: Names](https://golang.org/doc/effective_go#names)
+- [Go by Example: Structs](https://gobyexample.com/structs)
+
+## Instructions
+1. Open `assignment.go`.
+2. Implement the task.
+3. `go test -v .`
