@@ -1,20 +1,18 @@
-# Elite Go Systems Architect Kurs
+# Level 17: level17
 
-## 🌍 Available Languages
-- 🇬🇧 [English](https://github.com/kluth/golang-elite-course)
-- 🇩🇪 [Deutsch](https://github.com/kluth/golang-elite-course-de)
-- 🇳🇱 [Nederlands](https://github.com/kluth/golang-elite-course-nl)
-- 🇮🇹 [Italiano](https://github.com/kluth/golang-elite-course-it)
-- 🇸🇪 [Svenska](https://github.com/kluth/golang-elite-course-sv)
-- 🇹🇷 [Türkçe](https://github.com/kluth/golang-elite-course-tr)
+Tinget! Observer för lagar, Mediator för förhandling.
 
-Krav:
-- **Go**: Version 1.22+
-- **Git**
+### 📝 Sammanfattning
+Kommunikationsmönster.
 
-Hur man börjar:
-1. Checka ut den första branchen:
-   ```bash
-   git checkout e1973dc3e7dc82e3
-   ```
-2. Läs `README.md`.
+### ⌨️ Syntaxhjälp
+Eventlistor.
+
+### 📚 Bästa källor
+- [Observer](https://refactoring.guru/design-patterns/observer/go/example)
+- [Mediator](https://refactoring.guru/design-patterns/mediator/go/example)
+
+## Instructions
+1. Open `assignment.go`.
+2. Implement the task.
+3. `go test -v .`
